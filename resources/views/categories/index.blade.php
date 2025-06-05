@@ -2,7 +2,7 @@
 
 @section('main')
 {{--    <a href="{{ route('createCategory') }}" class="btn btn-outline-success">Crear</a>--}}
-    <h2>Categories:</h2>
+    <h2 style="color: blue">Categories:</h2>
 {{--    @foreach($categories as $category)--}}
 {{--        <div>User: {{ $category->user_id }}</div>--}}
 {{--        <div>ID: {{ $category->id }}</div>--}}
